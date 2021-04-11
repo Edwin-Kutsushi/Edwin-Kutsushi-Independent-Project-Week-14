@@ -43,4 +43,10 @@ Part 1 and 2: Dataset [Link].
 Part 3: Dataset [Link].
 Part 4: Dataset [Link].  
 
+#### Release
 
+This is the first release. Meta Team Time Data Report Distributed under the GNU General Public License v3.0. See LICENSE for more information. https://github.com/Edwin-Kutsushi/Edwin-Kutsushi-Independent-Project-Week-14.git
+
+#### Contribution 
+
+Contributing Fork it https://github.com/Edwin-Kutsushi/Edwin-Kutsushi-Independent-Project-Week-14.git. Create your feature branch (git checkout -b feature/fooBar) Commit your changes (git commit -am 'Add some fooBar') Push to the branch (git push origin feature/fooBar) Create a new Pull Request
